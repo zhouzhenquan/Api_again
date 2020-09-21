@@ -1,0 +1,4 @@
+log:
+  level: DEBUG
+  sh_level: DEBUG
+  fh_level: INFO
